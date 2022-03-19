@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-	<img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" height="800"/>
+	<img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" height="500"/>
 </div>
 <h1 align="center">Hi 👋, I'm Mohand Talat</h1>  
 <h3 align="center">A Computer Science Student @Cairo Uninversity</h3>  
