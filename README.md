@@ -2,11 +2,9 @@
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" height="500"/>
 </div>
-<h1 align="center">Hi 👋, I'm Mohanad Talat</h1>  
+<h1 align="center">Hi 👋, I'm Mohanad</h1>  
 <h3 align="center">A Computer Science Student @Cairo Uninversity</h3>  
-  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohanadtalat91" alt="mohanadtalat91" /></a> </p>  
-  
+    
 - 👨‍💻 All of my projects are available at [https://github.com/mohanadtalat91?tab=repositories](https://github.com/mohanadtalat91?tab=repositories)  
   
 - 📫 How to reach me **mohanadtalat91@gmail.com**  
