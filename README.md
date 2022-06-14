@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋 Hey everyone, I'm Mohanad Talat 👋</h1>  
+<h1 align="center">👋 Hey everyone, I'm Mohanad Talat</h1>  
 <h3 align="center">A Computer Science Student @Cairo Uninversity</h3>  
     
 - 👨‍💻 All of my projects are available at [https://github.com/mohanadtalat91?tab=repositories](https://github.com/mohanadtalat91?tab=repositories)  
