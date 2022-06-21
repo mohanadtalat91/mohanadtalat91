@@ -29,7 +29,7 @@
 
 ![Mohanad's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mohanadtalat91&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![Mohanad's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanadtalat91&theme=tokyonight&layout=compact)
+<!--![Mohanad's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanadtalat91&theme=tokyonight&layout=compact)-->
 
 
 ## Watch my contribution graph get eaten by the snake 🐍
