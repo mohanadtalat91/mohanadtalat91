@@ -28,7 +28,7 @@
   
 ## My Github stats 📊
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mohanadtalat91.mohanadtalat91)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mohanadtalat91.mohanadtalat91)-->
 
 ![Mohanad's github stats](https://github-readme-stats.vercel.app/api?username=mohanadtalat91&show_icons=true&theme=tokyonight)
 
